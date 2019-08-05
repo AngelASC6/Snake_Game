@@ -25,8 +25,6 @@ function setup(){
         this.y = y
         this.width = width
         this.height = height
-        this.history = []
-        this.history.push(this.x)
     }
 }
 head = new Head(posX,posY,50,50)
